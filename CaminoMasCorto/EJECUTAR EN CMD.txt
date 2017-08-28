@@ -1,0 +1,1 @@
+short6 < entrada5.txt
